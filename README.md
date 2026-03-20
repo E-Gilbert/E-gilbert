@@ -2,7 +2,7 @@
 
 # Elisha Gilbert
 
-Software Developer | Backend & SaaS Systems
+Software Developer 
 
 I build and maintain software systems(backend and frontend), APIs, and digital platforms. 
 I focus on writing clean, scalable code and translating technical systems into practical solutions.
