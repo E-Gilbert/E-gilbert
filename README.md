@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**E-Gilbert/E-gilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Elisha Gilbert
 
-Here are some ideas to get you started:
+Software Developer | Backend & SaaS Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build and maintain software systems(backend and frontend), APIs, and digital platforms. 
+I focus on writing clean, scalable code and translating technical systems into practical solutions.
+
+## Skills
+- TypeScript, JavaScript, Python,Flutter,
+- API Development & Integration
+- SQL & Database Design
+- Git & Version Control
+
+## Current Focus
+- SaaS development
+- Backend architecture
+- System design & scalability
+
+## Projects
+Check out my repositories below for examples of my work.
+
+## Contact
+Email: elishagilbert60@gmail.com
